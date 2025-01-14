@@ -1,13 +1,12 @@
 
+import Boimela from './component/Boimela';
 
 function App() {
-  
-
   return (
     <>
-     <h1> Hello React </h1>
+     <Boimela />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

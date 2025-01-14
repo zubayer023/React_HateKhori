@@ -6,6 +6,7 @@ const Task = () => {
       <h1 className="text-xl text-green-700 py-4">
         We are here to learn React from tapaScript
       </h1>
+    
     </div>
   );
 };
